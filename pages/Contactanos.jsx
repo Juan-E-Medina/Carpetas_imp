@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import contactsService from './services/contacts';
+import contactsService from '../services/contacts';
 import Menu from '../components/Menu';
 import Footer from '../components/Footer';
 
