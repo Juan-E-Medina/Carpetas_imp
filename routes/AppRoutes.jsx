@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Inicio from "../pages/Inicio";
 import Nosotros from "../pages/Nosotros";
-import RecursosMatematicos from "../pages/Recursos";
+import Recursos from "../pages/Recursos";
 import Mision from "../pages/Mision";
 import Vision from "../pages/Vision";
 import Contactanos from "../pages/Contactanos";
