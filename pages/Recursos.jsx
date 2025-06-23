@@ -1,7 +1,7 @@
 import Menu from '../components/Menu';
 import Footer from '../components/Footer';
 
-const RecursosMatematicos = () => {
+const Recursos = () => {
   return (
     <div>
       <Menu />
@@ -43,4 +43,4 @@ const RecursosMatematicos = () => {
   );
 };
 
-export default RecursosMatematicos;
+export default Recursos;
